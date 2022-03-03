@@ -18,7 +18,7 @@ manage their complex schedule by jotting down the tasks for each day and deletin
 ## Visuals
 | ![image](https://user-images.githubusercontent.com/75468796/156401357-a30fa0fe-7994-4ab8-b606-adcfcf8639ea.png) |
 | :--: |
-| *A look of websites' homepage* |
+| *A look of website's homepage* |
     
 | ![image](https://user-images.githubusercontent.com/75468796/156401607-15aadecd-8488-4d59-bb3c-16625fa875f8.png) |  ![image](https://user-images.githubusercontent.com/75468796/156404577-13a400cc-e2a9-47ce-a616-c7c16dfdee83.png) |
 | :--: | :--: |
